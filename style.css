@@ -1,0 +1,23 @@
+html {
+  background: url("img/background.png") no-repeat center fixed;
+  background-size: cover;
+}
+body {
+  background: rgba(23, 203, 209, 0.8);
+  text-align: center;
+  padding: 70px 0;
+  width: 700px;
+  margin: 25px auto;
+  border-radius: 47px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 52px;
+  letter-spacing: 0px;
+}
+
+hr {
+  width: 400px;
+}
